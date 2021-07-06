@@ -49,6 +49,13 @@ h1{
     font-weight: bold;
 }
 
+.box-shadow{
+    box-shadow: 2px 2px 15px black;
+    border: 5px solid white;
+    border-radius: 15px;
+
+}
+
 footer{ 
     color: white;
     background-color: black;
